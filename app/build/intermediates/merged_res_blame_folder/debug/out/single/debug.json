@@ -1,0 +1,1246 @@
+[
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_youtube.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_action_done.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_wallpaper.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_heart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_grid_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_shield.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_pause_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_share_dark.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_rss_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/rss_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_order_header.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_order_header.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_play.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_empty.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_empty.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header_text.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header_text.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_left.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_stop.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_webview_no_connection.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_webview_no_connection.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_download.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_details.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_details.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_album_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_refresh_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/refresh_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_rounded_placeholder.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/rounded_placeholder.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_album_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_exit_to_app.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_clear_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_comment.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_comment.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_share_dark.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_comment_sub.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_comment_sub.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_view_carousel.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_main_tablet.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_main_tablet.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_gradient_four.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/gradient_four.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_clear_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_previous_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_category_card_round.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_category_card_round.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_heart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_heart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_youtube_player.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_youtube_player.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_pin.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_pin.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_audio.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_audio.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_menu_search.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/menu_search.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_previous_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_previous_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_toolbar_gradient.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/toolbar_gradient.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_attachment.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_attachment.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_youtube.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_more_vert.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_retweet.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_host.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_host.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_soundcloud_notification_expanded.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/soundcloud_notification_expanded.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_woocommerce_login.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_woocommerce_login.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_outline_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_bag.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_pause_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_youtube.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_youtube.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_action_done.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_refresh.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_previous_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_more_vert.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_shield.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_shield.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_fav_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_fav_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wordpress_list_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wordpress_list_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_stop.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_filter_header.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_filter_header.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_grid_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_comment.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_comment.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_wallpaper.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_right.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_radio_playing.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_retweet.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_stop.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_comments.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_attachment_video.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_attachment_video.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_radio_playing.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_social_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_social_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_activity_main_drawer.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_main_content.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_main_content.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_soundcloud_playback_view.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/soundcloud_playback_view.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_share_dark.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_clear_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_share_dark.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_woocommerce_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/woocommerce_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_video_detail.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_video_detail.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_comment.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_comment.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_album_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_placeholder_video.jpg.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/placeholder_video.jpg"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_image_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_image_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_soundcloud_notification_icon.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/soundcloud_notification_icon.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/xml_provider_paths.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_thumbs_up.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_highlight_text.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_highlight_text.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_drawable_header.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/drawable_header.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_preference_list.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_preference_list.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_thumbs_up.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_product_card.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_product_card.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_webview.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_rss_details.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_rss_details.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_gradient_five.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/gradient_five.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_share_dark.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/xml_activity_settings.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/xml/activity_settings.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_soundcloud_track_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/soundcloud_track_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header_image.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header_image.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_download.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_share.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_loading.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_loading.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_open_in_new.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_splash_screen.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_soundcloud_notification_icon_background.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/soundcloud_notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_menu_image.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/menu_image.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_next_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_clear_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_holder.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_holder.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_rss_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_rss_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_wordpress_detail_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/wordpress_detail_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_webview_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/webview_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_maps.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_right.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_youtube.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_youtube_livefooter.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_youtube_livefooter.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_wallpaper.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_toolbar_default.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_drawer_top.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/drawer_top.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_view_carousel.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_play.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_grid_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_filter_dialog.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_filter_dialog.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_wallpaper.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_grid_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_open_in_new.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_comments_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_comments_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_heart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_view_mode_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/view_mode_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_left.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_exit_to_app.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_play.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_album_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_download.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_edit.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_previous_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_exit_to_app.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_loading.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_loading.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_menu_share.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/menu_share.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_view_carousel.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_radio_tooltip.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/radio_tooltip.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_drawer_header.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/drawer_header.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_outline_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_grid_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_radio_background.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/radio_background.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header_slider_categories.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header_slider_categories.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_highlight_gradient.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/highlight_gradient.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_wallpaper.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_radio.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_radio.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_more_vert.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_settings_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/settings_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_left.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_chip_background.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/chip_background.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_bag.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_bag.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_list_refresh.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_list_refresh.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_delete.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_gradient_two.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/gradient_two.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_woocommerce_product_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_woocommerce_product_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_more_vert.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_soundcloud_notification.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/soundcloud_notification.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_pin.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_radio_playing.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_slider.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_slider.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_soundcloud_selectable_background_selected.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/soundcloud_selectable_background_selected.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_toolbar_tabbar.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/toolbar_tabbar.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_order.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_order.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_attachment.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_attachment.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_heart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_heart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_open_in_new.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_youtube_live.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/youtube_live.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_retweet.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_soundcloud_notification_button.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/soundcloud_notification_button.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_edit.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_cart_item.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_cart_item.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_soundcloud_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/soundcloud_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_bag.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_drawer_item_background.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/drawer_item_background.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_woocommerce_product.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_woocommerce_product.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_right.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_view_carousel.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_pause_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_heart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_video_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_video_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_favorite_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/favorite_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_attachment_gallery_view.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_attachment_gallery_view.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_right.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_chip_background_dark.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/chip_background_dark.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_variation_group.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_variation_group.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_shield.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_woocommerce_detail_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/woocommerce_detail_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_action_done.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_sad_cloud.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/sad_cloud.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_comment.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_comment.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_soundcloud_track_view.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/soundcloud_track_view.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_action_done.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_variation_dialog.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_variation_dialog.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_edit.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_overview_card_image.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_overview_card_image.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_list.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_wordpress_details.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_wordpress_details.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_pause_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_gradient_three.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/gradient_three.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_play.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_pin.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_fav.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_placeholder_coverart.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/placeholder_coverart.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_next_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_footer.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_download.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_pause_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_youtube_detail_menu.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/youtube_detail_menu.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-v21_soundcloud_selectable_background_white.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-v21/soundcloud_selectable_background_white.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_slider_chip.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_slider_chip.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_bag.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_bag.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_stop.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_pin.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-nodpi_placeholder.jpg.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-nodpi/placeholder.jpg"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_pinterest_row.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_pinterest_row.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_soundcloud_selectable_background_white.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/soundcloud_selectable_background_white.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_woocommerce_checkout.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_woocommerce_checkout.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_drawer_item_background_selected.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/drawer_item_background_selected.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_action_outline_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_next_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_gradient_one.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/gradient_one.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_audio.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_audio.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_exit_to_app.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_right.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_comment.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_comment.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_delete.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_bottom_sheet_privacy.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/bottom_sheet_privacy.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_category_card_text.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_category_card_text.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_radio_playing.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_retweet.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_stop.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_radio_playing.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_cart.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_cart.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_more_vert.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_action_outline_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header_search.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header_search.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_shield.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable_soundcloud_seekbar.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable/soundcloud_seekbar.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_shield.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_shield.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_category.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_category.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_view_carousel.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_left.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xhdpi_ic_action_outline_view.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_open_in_new.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_category_card_image.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_category_card_image.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_next_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_download.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_webview_actionbar.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_webview_actionbar.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_play.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_listview_highlight.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/listview_highlight.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_next_white.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_left.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-mdpi_ic_exit_to_app.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-mdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_overview_card_text.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_overview_card_text.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_wc_header_slider_products.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_wc_header_slider_products.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_tv_controls.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_tv_controls.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/menu_menu_download.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/menu/menu_download.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/layout_fragment_tv.xml.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/layout/fragment_tv.xml"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_bag.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-hdpi_ic_action_retweet.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-hdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-merged_res-52:/drawable-xxxhdpi_ic_open_in_new.png.flat",
+        "source": "/home/josemanuel/.gradle/daemon/8.0/com.sherdle.universal.app-main-54:/drawable-xxxhdpi/ic_open_in_new.png"
+    }
+]

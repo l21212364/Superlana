@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sherdle.universal.app-mergeDebugResources-50:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/josemanuel/Descargas/universal-full-multipurpose-4.5.8/app/src/main/res/values-w600dp/dimens.xml",
+                    "from": {
+                        "startLines": "9,10,8,7,13,18,14,15,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "315,354,249,190,428,607,474,530,96",
+                        "endColumns": "37,42,64,57,44,44,54,52,63",
+                        "endOffsets": "348,392,309,243,468,647,524,578,155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,93,136,201,259,304,349,404,457",
+                        "endColumns": "37,42,64,57,44,44,54,52,63",
+                        "endOffsets": "88,131,196,254,299,344,399,452,516"
+                    }
+                }
+            ]
+        }
+    ]
+}

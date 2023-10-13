@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sherdle.universal.app-mergeDebugResources-50:/values-w800dp-land-v13/values-w800dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/josemanuel/Descargas/universal-full-multipurpose-4.5.8/app/src/main/res/values-w800dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,4,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "77,115,185",
+                        "endColumns": "37,41,45",
+                        "endOffsets": "110,152,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,93,135",
+                        "endColumns": "37,41,45",
+                        "endOffsets": "88,130,176"
+                    }
+                }
+            ]
+        }
+    ]
+}
